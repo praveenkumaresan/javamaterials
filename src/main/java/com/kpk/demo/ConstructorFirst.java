@@ -14,9 +14,9 @@ public class ConstructorFirst {
         System.out.println("this is one argument -->" +this.testVariable);
     }
 
-    public static void main (String[] args)
+   /* public static void main (String[] args)
     {
         new ConstructorFirst();
         new ConstructorFirst("Test Constructor with one Argument");
-    }
+    }*/
 }

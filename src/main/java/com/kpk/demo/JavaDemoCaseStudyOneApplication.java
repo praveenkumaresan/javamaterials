@@ -12,7 +12,7 @@ public class JavaDemoCaseStudyOneApplication {
     public JavaDemoCaseStudyOneApplication() {
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         SpringApplication.run(JavaDemoCaseStudyOneApplication.class, args);
         System.out.println("Demo for simple Java App");
 
@@ -39,7 +39,7 @@ public class JavaDemoCaseStudyOneApplication {
 
         System.out.println("value player across club" + valuePlayer);
 
-    }
+    }*/
 
     // display of english soccer
     static void englishPremierClub() {
